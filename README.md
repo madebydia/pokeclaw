@@ -39,7 +39,7 @@ If you'd rather run pokeclaw in the cloud instead of locally, you can deploy to 
 
 ```bash
 # Clone and enter the repo
-git clone https://github.com/meimakes/pokeclaw.git
+git clone https://github.com/madebydia/pokeclaw.git
 cd pokeclaw
 
 # Launch on Fly (creates the app + a persistent volume for /workspace)
@@ -92,7 +92,7 @@ Only the agent(s) you plan to use need to be installed. Both require OAuth login
 ### Build
 
 ```bash
-git clone https://github.com/meimakes/pokeclaw.git
+git clone https://github.com/madebydia/pokeclaw.git
 cd pokeclaw
 npm install
 npm run build

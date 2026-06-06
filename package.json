@@ -32,11 +32,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meimakes/pokeclaw.git"
+    "url": "git+https://github.com/madebydia/pokeclaw.git"
   },
-  "homepage": "https://github.com/meimakes/pokeclaw#readme",
+  "homepage": "https://github.com/madebydia/pokeclaw#readme",
   "bugs": {
-    "url": "https://github.com/meimakes/pokeclaw/issues"
+    "url": "https://github.com/madebydia/pokeclaw/issues"
   },
   "engines": {
     "node": ">=20"

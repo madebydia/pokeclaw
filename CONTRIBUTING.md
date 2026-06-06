@@ -5,7 +5,7 @@ Thanks for your interest in contributing to pokeclaw!
 ## Getting started
 
 ```bash
-git clone https://github.com/meimakes/pokeclaw.git
+git clone https://github.com/madebydia/pokeclaw.git
 cd pokeclaw
 npm install
 npm run dev
@@ -36,7 +36,7 @@ Add tests for new functionality in `src/*.test.ts` files.
 
 ## Reporting issues
 
-Open an issue at https://github.com/meimakes/pokeclaw/issues with:
+Open an issue at https://github.com/madebydia/pokeclaw/issues with:
 - Steps to reproduce
 - Expected vs actual behavior
 - Node.js version and OS
