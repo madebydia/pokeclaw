@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-If you discover a security vulnerability, please report it privately by emailing **diana@mama.dev**. Do not open a public issue.
+If you discover a security vulnerability, please report it privately by emailing **diana@madebydia.com**. Do not open a public issue.
 
 I'll acknowledge receipt within 48 hours and provide a timeline for a fix.
 
